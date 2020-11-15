@@ -3,6 +3,10 @@ class Person
     @name = names
   end
 
+  def name
+    @name
+  end
+  
   def job=(jobs)
     @job = jobs
   end
