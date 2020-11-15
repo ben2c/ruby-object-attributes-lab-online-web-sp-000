@@ -6,3 +6,4 @@ class Person
   def job=(breeds)
     @breed = breeds
   end
+end
